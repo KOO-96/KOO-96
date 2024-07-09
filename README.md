@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6347&vCenter=true&width=435&lines=Welcome+to+My+Github;Explore+my+Projects;Feel+free+to+Connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF6347&vCenter=true&width=435&lines=Welcome+to+My+Github!;Thank+you!)](https://git.io/typing-svg)
  
 
 ### 🙇‍♀️ AI 주니어 개발자 구성준입니다.

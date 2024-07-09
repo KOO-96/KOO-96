@@ -19,7 +19,7 @@
 
 ### 📝 Project
 
-**반려견과 함께하는 여행지 추천 서비스** - [Link](https://github.com/KOO-96/Image-classification)
+**반려견과 함께하는 여행지 추천 서비스** - [Link](https://github.com/KOO-96/PetripDiary)
 <details>
   <summary><strong>📌 자세히 보기</strong></summary>
   <br>

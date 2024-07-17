@@ -115,3 +115,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36C6F2,100:0FBF61&height=80&&section=footer" style="width: 100%;">
 </div>
+
+---
+Contact 
+
+Notion: [Link](https://www.notion.so/AI-Engineer-d3118c4ac2594a319e539e3f1b7073ef)   
+E-Mail: [rntjdwns1030@naver.com](mailto:rntjdwns1030@naver.com)

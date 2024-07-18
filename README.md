@@ -40,7 +40,7 @@
   <br>
  
   - FastText + LSTM을 통한 욕설탐지 모델 생성<br>
-  - 결과: 85.32% 예측 모델 생성
+  - 결과: 약80% 예측 모델 생성
 </details>
 
 **Image Classifier** - [Link](https://github.com/KOO-96/Image-classification)
